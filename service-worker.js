@@ -1,7 +1,7 @@
 const CACHE_NAME = "click-button-game-v1";
 const urlsToCache = [
-    "landing.html",
     "index.html",
+    "game.html",
     "manifest.json",
     "service-worker.js",
     "icons/icon-192x192.png",
